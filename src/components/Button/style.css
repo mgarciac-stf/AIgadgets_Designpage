@@ -1,0 +1,127 @@
+.button {
+  align-items: center;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.button .instance-node {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.button .div {
+  font-family: "Nexa-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .class {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.button.leading-icon-true {
+  border-radius: 10px;
+  height: 44px;
+}
+
+.button.secondary {
+  border: 1px solid;
+  border-color: #5a9fd0;
+  border-radius: 10px;
+  display: inline-flex;
+  height: 44px;
+  padding: 0px 48px;
+}
+
+.button.tertiary-icon {
+  display: flex;
+}
+
+.button.primary {
+  background-color: #5a9fd0;
+  border-radius: 10px;
+  display: inline-flex;
+  height: 44px;
+  padding: 0px 48px;
+}
+
+.button.tertiary {
+  border-radius: 10px;
+  display: inline-flex;
+  height: 44px;
+  padding: 0px 24px;
+}
+
+.button.secondary-icon {
+  border: 1px solid;
+  border-color: #5a9fd0;
+  display: flex;
+}
+
+.button.primary-icon {
+  background-color: #5a9fd0;
+  display: flex;
+}
+
+.button.tertiary-icon.leading-icon-true {
+  width: 44px;
+}
+
+.button.leading-icon-false.secondary-icon {
+  border-radius: 100px;
+  height: 24px;
+  width: 24px;
+}
+
+.button.primary-icon.leading-icon-false {
+  border-radius: 100px;
+  height: 24px;
+  width: 24px;
+}
+
+.button.leading-icon-true.secondary-icon {
+  width: 44px;
+}
+
+.button.primary-icon.leading-icon-true {
+  width: 44px;
+}
+
+.button.tertiary-icon.leading-icon-false {
+  border-radius: 100px;
+  height: 24px;
+  width: 24px;
+}
+
+.button.secondary .div {
+  color: #5a9fd0;
+}
+
+.button.tertiary-icon .div {
+  color: #5a9fd0;
+}
+
+.button.primary .div {
+  color: #ffffff;
+}
+
+.button.tertiary .div {
+  color: #5a9fd0;
+}
+
+.button.secondary-icon .div {
+  color: #5a9fd0;
+}
+
+.button.primary-icon .div {
+  color: #5a9fd0;
+}

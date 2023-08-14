@@ -1,0 +1,81 @@
+.side-menu {
+  background-color: #ffffff;
+  box-shadow: 2px 0px 16px #00000014;
+  height: 830px;
+  position: relative;
+  width: 224px;
+}
+
+.side-menu .class-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 38px !important;
+}
+
+.side-menu .class-3 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 40px !important;
+}
+
+.side-menu .icon-instance-node {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.side-menu .bezier-4 {
+  height: 32px !important;
+  margin-bottom: -4px !important;
+  margin-top: -4px !important;
+  position: relative !important;
+  width: 32px !important;
+}
+
+.side-menu .class-4 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 110px !important;
+}
+
+.side-menu .class-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 112px !important;
+}
+
+.side-menu .class-6 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 182px !important;
+}
+
+.side-menu .class-7 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 184px !important;
+}
+
+.side-menu .class-8 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 254px !important;
+}
+
+.side-menu .class-9 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 256px !important;
+}
+
+.side-menu .class-10 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 326px !important;
+}
+
+.side-menu .class-11 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 328px !important;
+}

@@ -1,0 +1,211 @@
+.gadget-designer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gadget-designer .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1065px;
+  position: relative;
+  width: 1600px;
+}
+
+.gadget-designer .overlap {
+  background-color: #f8f8f8;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 1600px;
+}
+
+.gadget-designer .button-instance {
+  background-color: #35bea5 !important;
+  left: 1367px !important;
+  position: absolute !important;
+  top: 32px !important;
+}
+
+.gadget-designer .design-component-instance-node {
+  left: 1208px !important;
+  position: absolute !important;
+  top: 32px !important;
+}
+
+.gadget-designer .text-wrapper-5 {
+  color: #000000;
+  font-family: "Nexa-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 312px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.gadget-designer .more {
+  height: 24px !important;
+  left: 264px !important;
+  position: absolute !important;
+  top: 42px !important;
+  width: 24px !important;
+}
+
+.gadget-designer .line {
+  height: 1px;
+  left: 312px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 355px;
+}
+
+.gadget-designer .form-instance {
+  left: 264px !important;
+  position: absolute !important;
+  top: 218px !important;
+}
+
+.gadget-designer .overlap-group {
+  height: 49px;
+  left: 679px;
+  position: absolute;
+  top: 446px;
+  width: 423px;
+}
+
+.gadget-designer .overlap-2 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.gadget-designer .text-wrapper-6 {
+  color: #605f5f;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.gadget-designer .iconamoon-number {
+  height: 36px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.gadget-designer .overlap-group-wrapper {
+  height: 28px;
+  left: 4px;
+  position: relative;
+  top: 8px;
+  width: 28px;
+}
+
+.gadget-designer .overlap-group-2 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/5a410e543c9ecc0a9d8ea0d3b44ac891/img/group@2x.png);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 7px;
+  position: relative;
+  top: 4px;
+  width: 14px;
+}
+
+.gadget-designer .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gadget-designer .overlap-3 {
+  height: 10px;
+  left: 109px;
+  position: absolute;
+  top: 37px;
+  width: 314px;
+}
+
+.gadget-designer .img {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 311px;
+}
+
+.gadget-designer .ellipse {
+  background-color: #ffc727;
+  border-radius: 5px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 10px;
+}
+
+.gadget-designer .form-2 {
+  left: 1224px !important;
+  position: absolute !important;
+  top: 218px !important;
+  width: 296px !important;
+}
+
+.gadget-designer .form-3 {
+  left: 904px !important;
+  position: absolute !important;
+  top: 218px !important;
+  width: 296px !important;
+}
+
+.gadget-designer .side-menu-instance {
+  height: 995px !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 70px !important;
+}
+
+.gadget-designer .bezier-instance {
+  height: 32px !important;
+  margin-bottom: -4px !important;
+  margin-top: -4px !important;
+  position: relative !important;
+  width: 32px !important;
+}
+
+.gadget-designer .icon-instance-node-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.gadget-designer .header-instance {
+  left: 0 !important;
+  mix-blend-mode: normal !important;
+  position: fixed !important;
+  top: 0 !important;
+}
